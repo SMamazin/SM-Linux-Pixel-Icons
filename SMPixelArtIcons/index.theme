@@ -1,0 +1,21 @@
+[Icon Theme]
+Name=SMPixelArtTheme
+Comment=Tema de ícones pixel art 128px
+Directories=apps/128x128,mimetypes/128x128,places/128x128
+Inherits=breeze-dark,hicolor
+
+[apps/128x128]
+Size=128
+Context=Applications
+Type=Fixed
+
+[mimetypes/128x128]
+Size=128
+Context=MimeTypes
+Type=Fixed
+
+[places/128x128]
+Size=128
+Context=Places
+Type=Fixed
+
